@@ -9,6 +9,6 @@
  */
 
 module.exports.routes = {
-
+  // 'get /product': 'ProductController.find'
 
 };
